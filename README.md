@@ -31,6 +31,7 @@ This Jupyter Notebook demonstrates how to use the `HandTrackingModule` to contro
 
 ## End
 
-- **LinkedIn:** [https://www.linkedin.com/in/zeyadsayed/]
-- **Kaggle:** [https://www.kaggle.com/zeyadsayedadbullah]
-- **Video Of the project Working From LinkedIn:** [https://www.linkedin.com/feed/update/urn:li:activity:7162226021688188928?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7162226021688188928%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=plSDadB9TW2G9%2BuglQ6Dfg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQ%2BlN%2BqhESVWVE2XKJuxtyA%3D%3D]
+- **LinkedIn:** [ https://www.linkedin.com/in/zeyadsayed/ ]
+- **HuggingFace:** [ https://huggingface.co/Zeyad-Sayed ]
+- **Kaggle:** [ https://www.kaggle.com/zeyadsayedadbullah ]
+- **Video Of the project Working From LinkedIn:** [ https://lnkd.in/dzCzuNEe ]
